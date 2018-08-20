@@ -1,0 +1,142 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,142,195,254,315,370",
+                        "endColumns": "39,46,52,58,60,54,38",
+                        "endOffsets": "90,137,190,249,310,365,404"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "409,447,486,523",
+                        "endColumns": "37,38,36,36",
+                        "endOffsets": "442,481,518,555"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "705,788",
+                        "endLines": "18,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "783,855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,-1,-1",
+                        "startColumns": "4,-1,-1",
+                        "startOffsets": "103,-1,-1",
+                        "endColumns": "48,-1,-1",
+                        "endOffsets": "147,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "560,609,652",
+                        "endColumns": "48,42,52",
+                        "endOffsets": "604,647,700"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\shweta.tripathi\\Desktop\\CustomListViewVolley1\\CustomListViewVolley1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
